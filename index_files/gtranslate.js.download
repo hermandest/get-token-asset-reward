@@ -1,0 +1,1 @@
+window.gtranslate_installed=true;var gt_wrapper=document.getElementById('gtranslate_wrapper');if(gt_wrapper!=null)gt_wrapper.style.display='block';
